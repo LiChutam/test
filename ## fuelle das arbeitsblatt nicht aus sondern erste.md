@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# \#\# fuelle das arbeitsblatt nicht aus sondern erstelle es als **lehrmaterial**
-
-\#\#gib es direkt als Markdowndatei aus
-
-```md
 # Material didáctico: Proyecto Scratch
 
 > **Para niños de 8 a 12 años**  
@@ -89,29 +82,3 @@ Scratch es un programa para crear historias, juegos y animaciones con bloques de
 ## Consejo final
 
 Una buena historia de Scratch debe ser clara, corta y divertida. Primero piensa la idea, después organiza las escenas y al final añade los bloques para que todo funcione.
-```
-
-<span style="display:none">[^1][^10][^2][^3][^4][^5][^6][^7][^8][^9]</span>
-
-<div align="center">⁂</div>
-
-[^1]: https://www.reddit.com/r/instructionaldesign/comments/1ebd8s4/build_elearning_scorm_in_markdown_perfection_thy/
-
-[^2]: https://www.youtube.com/watch?v=OFYlbphBZiA
-
-[^3]: https://ardalis.com/how-to-easily-format-tables-in-markdown/
-
-[^4]: https://files.eric.ed.gov/fulltext/ED621589.pdf
-
-[^5]: https://liascript.github.io/blog/liascript-documentation-english/
-
-[^6]: https://www.codecademy.com/resources/docs/markdown/tables
-
-[^7]: https://liascript.github.io/
-
-[^8]: https://www.youtube.com/watch?v=YYhvGnE1PAA
-
-[^9]: https://www.youtube.com/watch?v=a0rM8wAp4U0
-
-[^10]: https://github.com/LiaScript/LiaScript
-
