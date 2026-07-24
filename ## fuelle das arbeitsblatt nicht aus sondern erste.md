@@ -1,6 +1,6 @@
 # Material didáctico: Proyecto Scratch
 
-> **Para niños de 8 a 12 años**  
+> Para niños de 8 a 12 años.  
 > Este material explica cómo planear un proyecto de Scratch. No está resuelto como tarea; sirve para aprender, organizar ideas y crear tu propia historia.
 
 ## Objetivo
@@ -81,4 +81,4 @@ Scratch es un programa para crear historias, juegos y animaciones con bloques de
 
 ## Consejo final
 
-Una buena historia de Scratch debe ser clara, corta y divertida. Primero piensa la idea, después organiza las escenas y al final añade los bloques para que todo funcione.
+Una buena historia de Scratch debe ser clara, corta y divertida. Primero piensa la idea, después organiza las escenas y al final añade los bloques para que todo funcione. funcione.
