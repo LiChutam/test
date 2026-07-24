@@ -78,16 +78,6 @@ Con Scratch puedes mover personajes, cambiar fondos y hacer que pasen cosas cuan
 
 ---
 
-## Sonidos y música
-
-| Momento  | Sonido posible     |
-|----------|--------------------|
-| Inicio   | Música tranquila.  |
-| Caminata | Pasos o viento.    |
-| Problema | Sonido misterioso. |
-| Final    | Música alegre.     |
-
----
 
 ## Lista de verificación
 
